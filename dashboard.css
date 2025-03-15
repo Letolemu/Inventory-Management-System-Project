@@ -1,0 +1,25 @@
+/* Navbar Styles */
+.navbar {
+    background-color: #28a745; /* Green background */
+}
+
+.navbar .nav-link {
+    color: white; /* White text color */
+}
+
+.navbar .nav-link:hover {
+    color: #ffc107; /* Yellow on hover */
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: white; /* White text color for brand */
+}
+
+.navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.1); /* Light border for toggler */
+}
+
+.navbar-toggler-icon {
+    background-color: white; /* White color for toggler icon */
+}
